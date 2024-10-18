@@ -1,0 +1,55 @@
+header nav ul{
+    display:flex ;
+    gap: 10px;
+}
+header nav ul li{
+    list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+.c{
+    text-align: center;
+    margin-bottom: 20px;
+}
+ol{
+    font-size: larger;
+}
+tr{
+    font-size: larger;
+}
+a{
+    font-size: large;
+    display: inline-block;
+    text-align: right;
+}
+body{
+    background-color: salmon;
+}
+table{
+    margin-bottom: 40px;
+}
+.v{
+    color: maroon;
+}
+.q{
+  color: black;
+}
+.t{
+    color: bisque;
+}
+tr{
+    font-size: large;
+}
+ol{
+    font-size: x-large;
+    color: crimson;
+}
+h2{
+    color: darkmagenta;
+}
